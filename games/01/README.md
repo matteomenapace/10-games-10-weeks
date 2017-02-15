@@ -38,7 +38,9 @@ It may well be that the player who completed the *race* has less points than oth
 
 The **obstacle** elements from Malefiz/Barricade become **algorithms** that adapt to your moves and influence your path.
 
-> Here’s a new mechanic to play-test: whenever you move a piece to the left or right, the obstacle/algorithm closest to that piece moves in the opposite direction, creating a bias for you to keep moving that way.
+> This is the new mechanic to play-test: whenever you move a piece to the left or right, the obstacle/algorithm closest to that piece moves in the opposite direction.
+
+Like in a filter bubble, the obstacle/algorithm moves to create a bias for you to keep moving the way you moved.
 
 ![](e3.png)
 
