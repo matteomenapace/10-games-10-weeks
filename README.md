@@ -6,20 +6,12 @@ Each week for 10 weeks, I will pick one traditional board game (a *cultural obje
 
 [Read the why and how on Medium ↱](https://medium.com/10-game-hacks-in-10-weeks/10-game-hacks-in-10-weeks-68d0255e3a52)
 
-### Week 1
+### The hacks
 
-Game **Barricade** 
-
-Issue **Filter bubbles**
-
-[Read the game analysis on Medium ↱](https://medium.com/10-game-hacks-in-10-weeks/week-1-barricade-filter-bubbles-c7d43977b9e5) 
-
-[See the game experiments](games/01)
-
-
-
-
-
+Week | Game | Issue | Analysis | Experiments
+---- | ---- | ----- | -------- | -----------
+1    | Barricade | Filter bubbles | [What is this game about? ↱](https://medium.com/10-game-hacks-in-10-weeks/week-1-barricade-filter-bubbles-c7d43977b9e5) | [How am I hacking it?](games/01)
+2    | Yoté | Gentrification | [What is this game about? ↱](https://medium.com/10-game-hacks-in-10-weeks/week-2-yoté-gentrification-45c07806ea5b) | [How am I hacking it?](games/02)
 
 
 
