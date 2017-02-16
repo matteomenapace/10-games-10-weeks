@@ -30,7 +30,7 @@ Next to each issue is a brief comment on why I find that interesting.
  
 * **Economy**  
   
-	Recession, financial crisis, poverty / homelessness, debt, workers rights, wealth redistribution, free market, market regulation, capitalism vs socialism, *extractivism*, the gig/sharing economy (precarisation)
+	Recession, financial crisis, poverty / homelessness, debt, workers rights, wealth redistribution, free market, market regulation, capitalism vs socialism, *extractivism*, the [gig economy](https://www.theguardian.com/business/the-gig-economy) and the *precarisation* of work
   
 * **Democracy**
 
