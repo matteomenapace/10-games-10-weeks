@@ -57,7 +57,7 @@ After some playtesting (key lesson: don't kill an idea until you've playtested i
 Your goal is still to *kill* all your opponent's pieces (like in Yoté). You still *kill* them by jumping over them and you still move one space up-down-left-right (not diagonally). Now for the differences:
 
 * You play on a **6×6** `city` (board). 
-* Each player starts the game with 12 `investment` pieces (the ones you place on and move around the city) and 3 `million` (coins)
+* Each player starts the game with 12 `investment` pieces (the ones you place on and move around the city) and 3 `million` (coins). The coins will be your `cash flow`
 * There is a `bank` that holds 30 million (30 coins) at the beginning.
 * Before the game starts, you need to place 3 `profitable areas` on the city. You roll the die twice to determine X and Y coordinate of each profitable area:
 
@@ -74,10 +74,24 @@ Your goal is still to *kill* all your opponent's pieces (like in Yoté). You sti
 	5. **Early gentrifiers** move into the area. They can't afford much rent, but they bring *cultural capital*. Coffee shops and higher-incomes will follow. Your investment is on the rise. Get 2 millions from the bank and put them under your piece.  
 	6. **Infrastructure boost**. You can move the same investment once more. This can be quite a devastating move as you may be able to *kill* your opponent's investment if you're lucky to roll a 6 and be in the right place.  
 * When you **kill** another piece, you `inherit` any money under it. Once killed, pieces cannot re-enter the game. *Killing* can happen only when your opponent's piece is between yours and an empty area. If there are coins on that area, then it's not empty.
+* When you move an `investment` piece from one area to another, you can `cash in` any coins under it. This is useful if your `cash flow` is running low.
 * What happens if **you run out of money**? You can exchange 1 investment for 6 millions (need to playtest this further to see if it's balanced).
 * What happens if **the bank runs out of money**? Everyone has to pay an equal amount into it (you decide how much). 
 * Here's the explosive stuff: **property bubbles**! When a 3×2 rectangle is filled (with any combination of investment pieces and coins) then it *bursts*. You have to roll the die twice to work out the consequences. For example if you roll a `2` then whatever is on the second area (counting from top-left to bottom-right) will **go bust**: any coins on that are return to the bank, and if there's an investment involved then it gets killed (and once killed, it cannot re-enter the game). This mechanic can be used to disrupt conglomerates of investments from the same player, or if you're desperate.   
 * What if multiple bubbles are triggered at the same time? The player who moved the triggering investment decides which bubble to burst, then if the other bubble is still a bubble after you rolled the die twice, you burst than one too. 
+
+#### Playtesting the above, round one
+
+A very useful (and challenging) aspect of playtesting is when you have to **explain the rules of the game to a new player**. While doing this you can uncover flaws, and you get a sense of whether the overall logic makes sense, whether there are *too many rules* or conflicting ones. You also come up with ideas to simplify and clarify the wording of your rules.
+
+My general impression is that you don't need to explain all the rules at once. It's easier to start with the fundamental mechanics through a **live tutorial**: people understand better by seeing the moving pieces. You can then introduce more complex rules or less likely scenarios by guiding the moves of the new player(s). After a few minutes they will feel more confident in their grasp of the game, so you can start playing competitively.
+
+Now, back to this specific game. What we observed:
+
+* The principle of `when you move into a new area you roll the events die` should be **consistent**. Eg, no matter whether you get there because you just rolled a 6 (extra move) or you just triggered a property bubble burst, first thing you do after moving is always rolling the `events` die
+* The 3 coins you start the game with may run out quickly. I'm not too worried about this, as it forces you to give pieces away or to `cash in`
+* To be brutal, the game feels like *Yoté with a bit of chance*, in the sense that the new mechanics don't seem strong enough to make you move much differently than if you were just playing the traditional version of the game. Running out of cash can have an impact on your game, but having a lot of it doesn't have any real consequences (apart from keeping you afloat). Maybe you can buy game pieces with a certain number of coins (6?)
+ 
 
 ## Glossary
 
