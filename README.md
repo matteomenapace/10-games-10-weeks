@@ -12,6 +12,7 @@ Week | Game | Issue | Analysis | Experiments
 ---- | ---- | ----- | -------- | -----------
 1    | Barricade | Filter bubbles | [What is this game about? ↱](https://medium.com/10-game-hacks-in-10-weeks/week-1-barricade-filter-bubbles-c7d43977b9e5) | [How am I hacking it?](games/01)
 2    | Yoté | Gentrification | [What is this game about? ↱](https://medium.com/10-game-hacks-in-10-weeks/week-2-yoté-gentrification-45c07806ea5b) | [How am I hacking it?](games/02)
+3    | Zohn Ahl | Resistance (indigenous struggles and climate change) | [What is this game about? ↱](https://medium.com/10-game-hacks-in-10-weeks/what-does-a-cross-and-circle-game-have-to-do-with-indigenous-resistance-and-climate-change-3-10-c91b1c41121a) | [How am I hacking it?](https://medium.com/10-game-hacks-in-10-weeks/what-does-a-cross-and-circle-game-have-to-do-with-indigenous-resistance-and-climate-change-3-10-c91b1c41121a)
 
 
 
