@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg2" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 604 604"
+	 style="enable-background:new 0 0 604 604;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;}
+	.st1{fill:#CCCCCC;}
+</style>
+<title>Mu Torere Board</title>
+<g id="GridLayer">
+	<polygon id="MasterOctagon" class="st0" points="198.4,52 405.6,52 552,198.4 552,405.6 405.6,552 198.4,552 52,405.6 52,198.4 	
+		"/>
+	<line class="st0" x1="405.6" y1="52" x2="198.4" y2="552"/>
+	<line class="st0" x1="198.4" y1="52" x2="405.6" y2="552"/>
+	<line class="st0" x1="552" y1="198.4" x2="52" y2="405.6"/>
+	<line class="st0" x1="552" y1="405.6" x2="52" y2="198.4"/>
+</g>
+<g id="MasterWhiteStone">
+	<circle id="WhiteStone" class="st1" cx="198.4" cy="52" r="36"/>
+</g>
+<g id="MasterWhiteStone_1_">
+	<circle id="WhiteStone_1_" class="st1" cx="52" cy="198.4" r="36"/>
+</g>
+<circle id="WhiteStone_2_" class="st1" cx="52" cy="405.6" r="36"/>
+<circle id="WhiteStone_3_" class="st1" cx="198.4" cy="552" r="36"/>
+<circle id="BlackStone" cx="405.6" cy="552" r="36"/>
+<circle id="BlackStone_1_" cx="552" cy="405.6" r="36"/>
+<circle id="BlackStone_2_" cx="552" cy="198.4" r="36"/>
+<g id="MasterBlackStone_3_">
+	<circle id="BlackStone_3_" cx="405.6" cy="52" r="36"/>
+</g>
+</svg>
